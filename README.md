@@ -13,6 +13,6 @@ https://erossel.wordpress.com/ This guy's notes on the linear CCD
 
 
 # Key tasks
-- #1
-- #2
-- #3
+- [Light source](/../../issues/1)
+- [CCD](/../../issues/2)
+- [Diffraction grating](/../../issues/3)
