@@ -13,7 +13,7 @@ https://erossel.wordpress.com/ This guy's notes on the linear CCD
 
 
 # Parts Needed
-- 532nm laser. This is a cheap green laser, good as it avoids flouresence for lower wavelengths (e.g. violet).
+- 532nm laser. This is a cheap green laser, good as it avoids flouresence for lower wavelengths (e.g. violet) but still gives strong enough Raman signals.
 - a 532nm band pass filter to clean up the laser. Maybe there's dirt or something in the laser which causes it to emit at other frequencies.  https://www.newport.com/f/laser-line-filters £100?
 - TCD1304 linear CCD. This should be easier to control than a standard camera plus we can cool it for longer exposure times. https://tcd1304.wordpress.com/tcd1304-pcb/ has a driver board we can buy at dirty PCBs from Erossel. £25 total?
 - Peltier cooling element for the CCD. Erossel https://www.amazon.co.uk/TEC1-03510-Heatsink-Thermoelectric-Cooling-Module/dp/B01EZQKA5Y
