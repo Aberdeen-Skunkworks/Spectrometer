@@ -1,9 +1,9 @@
 # Spectrometer
 Construction notes and design files for a spectrometer.
 
-The ultimate aim is to build a Raman spectrometer to measure the "fingerprint" of molecules which works by shining a specific frequency laser on a material and looking at the emitted (not reflected or transmitted) light.
+The ultimate aim is to build a Raman spectrometer to measure the "fingerprint" of molecules which works by shining an exciting laser on a material and looking at the emitted (not reflected or transmitted) light. This allows exact identification (and measurement) of compounds in liquids. It may be combined with the acoustic levitating platform to allow very clean spectra of liquids and solids to be measured without a container getting in the way and interfering the signal. Additionally, we could watch the absorption of gases into a droplet.
 
-This allows exact identification and measurement of the quantity of compounds in liquids and solids. It may be combined with the acoustic levitating platform to allow very clean spectra of liquids and solids to be measured without a container getting in the way and interfering the signal.
+(Transmission raman seems like a nice place to start)[http://article.sapub.org/10.5923.j.jlce.20150304.02.html].
 
 # Resources
 - [3D printed system](https://hackaday.io/project/1279-ramanpi-raman-spectrometer)
@@ -15,4 +15,4 @@ This allows exact identification and measurement of the quantity of compounds in
 # Key tasks
 - [Light source](/../../issues/1)
 - [CCD](/../../issues/2)
-- [Diffraction grating](/../../issues/3)
+- [Diffraction grating/filters/etc](/../../issues/3)
